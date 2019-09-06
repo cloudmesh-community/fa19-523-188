@@ -1,2 +1,2 @@
-[x] created notebook.md
-[x] created github account
+- [x] created notebook.md
+- [x] created github account
